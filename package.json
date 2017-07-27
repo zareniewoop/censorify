@@ -4,6 +4,14 @@
     "version" : "0.1.1",
     "description" : "Censors naughty words",
     "main" : "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zareniewoop/censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+        ],
     "dependancies" : {},
     "engines" : {
         "node": "*"
