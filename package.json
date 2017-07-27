@@ -1,0 +1,11 @@
+{
+    "author" : "Ninja Womble",
+    "name" : "censorify",
+    "version" : "0.1.1",
+    "description" : "Censors naughty words",
+    "main" : "censortext",
+    "dependancies" : {},
+    "engines" : {
+        "node": "*"
+    }
+}
